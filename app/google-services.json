@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395551588836",
+    "firebase_url": "https://iglu-34789.firebaseio.com",
+    "project_id": "iglu-34789",
+    "storage_bucket": "iglu-34789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395551588836:android:188bb6aa87c09450",
+        "android_client_info": {
+          "package_name": "com.iglu.iglu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395551588836-n9aidtoku97f9bal0821pudjtd1s2p89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iglu.iglu",
+            "certificate_hash": "cbdb2ac9f8f5339fc171e60cb08bfdb0cb26abc2"
+          }
+        },
+        {
+          "client_id": "395551588836-bufc47pt6cu5pf17ub1ba37h0jcitt9k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqxA1Qtkpa1-xjUMQOV2tjXIFLyZdvey8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395551588836-bufc47pt6cu5pf17ub1ba37h0jcitt9k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
